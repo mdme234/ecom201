@@ -1,3 +1,5 @@
+This is a simple ecomerce website in django
+
 To run 
 
 1. create a virtual environment
